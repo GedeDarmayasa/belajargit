@@ -5,7 +5,7 @@
 <title>Belajar Git - Latihan 01</title>
 </head>
 <body>
-<p>Hello Semua, Saya sedang belajar
+<p>aaaaaa
 
 Git</p>
 </body>
